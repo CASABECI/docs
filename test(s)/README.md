@@ -1,4 +1,4 @@
-## Tests
+## Test(s)
 
 It's not strictly necessary to run tests locally while developing: You can
 always open a pull request and rely on the CI service to run tests for you,
