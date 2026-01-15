@@ -67,7 +67,7 @@ ENTRYPOINT ["sh", "-c", "echo $GITHUB_SHA"]
 
 ```dockerfile
 # コードを実行するコンテナイメージ
-FROM debian:bookworm-20231009-slim
+FROM debian:12-slim
 
 # アクションのリポジトリからコードをコンテナのファイルシステムパス `/` にコピー
 COPY entrypoint.sh /entrypoint.sh
