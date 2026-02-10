@@ -56,7 +56,7 @@
     "lunr-languages": "^1.9.0",
     "mdast-util-from-markdown": "^1.2.0",
     "mdast-util-to-string": "^3.1.0",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "msgpack5rpc": "^1.1.0",
     "next": "^12.0.8",
     "overload-protection": "^1.2.3",
